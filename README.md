@@ -1,4 +1,4 @@
-compoer install
-composer update
-php artisan migrate:fresh --seed
-php artisan serve
+# compoer install
+# composer update
+# php artisan migrate:fresh --seed
+# php artisan serve
